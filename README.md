@@ -1,0 +1,1 @@
+Testando GPG nos commits
